@@ -6,6 +6,7 @@ let iojik_number = 0;
 let iojiks = [];
 let footer_b = document.getElementById('big')
 let numb = 5;
+let sqw = 'vasiliy0';
 
 gamefield.addEventListener('click', deleteIojik);
 window.addEventListener ('keypress', rebulet);
